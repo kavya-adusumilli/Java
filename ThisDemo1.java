@@ -20,7 +20,7 @@ public class ThisDemo1
  {
      public static void main(String args[])
      {
-         Student s1=new Student(4221,"priya",125000);
+         Student s1=new Student(4201,"kavya",125000);
          s1.display();
      }
  }
