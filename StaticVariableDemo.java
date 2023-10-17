@@ -16,8 +16,8 @@ System.out.println(rollno+" "+name+" "+college+" ");
 public class StaticVariableDemo
 {
     public static void main(String args[]){
-    Student s1=new Student(4221,"lasya");
-    Student s2=new Student(4222,"priya");
+    Student s1=new Student(4201,"kavya");
+    Student s2=new Student(4250,"suma");
     System.out.println("The student details are:");
     s1.display();
     s2.display();
